@@ -1,11 +1,11 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" />
 </div>
-<div align="center">
+<div align="">
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 	</div>
-<div align="center">
+<div align="">
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img alt="html5" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css&logoColor=white" />
 	<img alt="html5" src="https://img.shields.io/badge/-JavaScript-DFB317?style=flat-square&logo=javascript&logoColor=white" />
