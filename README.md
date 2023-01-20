@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div align=center>
+<div align="">
 	💪 Skills
 	 Platforms & Languages
 <p>
