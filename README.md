@@ -22,3 +22,4 @@
 <div align=center>
 	Studying :pencil2:
 </div>
+(http://mazassumnida.wtf/api/generate_badge?boj=doyeong1996)](https://solved.ac/doyeong1996)<br/>
