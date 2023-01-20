@@ -11,6 +11,4 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 
 	</div>
-<div align="center">
-![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-	</div>
+<img align="cneter" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
