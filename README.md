@@ -1,7 +1,6 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Github!&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" />
 </div>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
