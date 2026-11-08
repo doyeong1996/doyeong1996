@@ -3,6 +3,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 	</div>
 <div align="">
+		<img alt="Godot Engine" src="https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff"/>
 		<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 		<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	</div>
